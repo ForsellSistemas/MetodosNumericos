@@ -1,0 +1,13 @@
+C:\ForsellGit\WindowsApp2\MetodosNumericos\bin\Debug\MetodosNumericod.exe.config
+C:\ForsellGit\WindowsApp2\MetodosNumericos\bin\Debug\MetodosNumericod.exe
+C:\ForsellGit\WindowsApp2\MetodosNumericos\bin\Debug\MetodosNumericod.pdb
+C:\ForsellGit\WindowsApp2\MetodosNumericos\bin\Debug\MetodosNumericod.xml
+C:\ForsellGit\WindowsApp2\MetodosNumericos\obj\Debug\MetodosNumericos.vbprojAssemblyReference.cache
+C:\ForsellGit\WindowsApp2\MetodosNumericos\obj\Debug\MetodosNumericos.Form1.resources
+C:\ForsellGit\WindowsApp2\MetodosNumericos\obj\Debug\MetodosNumericos.Form2.resources
+C:\ForsellGit\WindowsApp2\MetodosNumericos\obj\Debug\MetodosNumericos.Resources.resources
+C:\ForsellGit\WindowsApp2\MetodosNumericos\obj\Debug\MetodosNumericos.vbproj.GenerateResource.cache
+C:\ForsellGit\WindowsApp2\MetodosNumericos\obj\Debug\MetodosNumericos.vbproj.CoreCompileInputs.cache
+C:\ForsellGit\WindowsApp2\MetodosNumericos\obj\Debug\MetodosNumericod.exe
+C:\ForsellGit\WindowsApp2\MetodosNumericos\obj\Debug\MetodosNumericod.xml
+C:\ForsellGit\WindowsApp2\MetodosNumericos\obj\Debug\MetodosNumericod.pdb
